@@ -1,3 +1,9 @@
+#Torrey Walls
+#M03_CaseStudy_Car
+#Program is used to take user input of a vehicles info and then display it back in an easy to read format
+#Variables: vehicle_type, year, make, model, number of doors, type of roof. All these variables are used to describe the car. 
+
+
 # Define the Vehicle superclass
 class Vehicle:
     def __init__(self, vehicle_type):
